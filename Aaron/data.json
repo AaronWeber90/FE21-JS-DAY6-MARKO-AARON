@@ -1,0 +1,11 @@
+let books = 
+    `[{"title": "Javascript for Dummies",
+    "author": "Dummy Dumb Dumb",
+    "read": false,
+    "img": "https://images.unsplash.com/photo-1561657819-51c0511e35ab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80"
+   }, {"title": "PHP for Dummies",
+    "author": "Hans",
+    "read": true,
+    "img": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1014&q=80"
+   } 
+   ]`
